@@ -11,7 +11,7 @@ public class AreaandPerimeter {
 
         Scanner num = new Scanner(System.in);
 
-        System.out.print("Enter radius and changed version for github: again updatedonly this file ");
+        System.out.print("Enter radius and changed version for github: again updatedonly this file and added new file: ");
         int r = num.nextInt();
 
         double area = Math.PI * r * r;
